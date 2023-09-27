@@ -4,9 +4,9 @@
 <defs>
 </defs>
 <rect x="0" y="0" width="1000" height="1000" fill="white" />
-<path d="M270.48,268.0 L312.3693478344019,310.34196888106135" stroke="grey" stroke-width="5" />
-<circle cx="312.3693478344019" cy="310.34196888106135" r="2.5" fill="grey" stroke="none" />
-<path d="M312.3693478344019,310.34196888106135 A266.7872380755871,266.7872380755871,0,0,0,270.48000000000013,363.9999999999999" stroke="grey" stroke-width="5" fill="none" />
+<path d="M270.48,268.0 L312.3693478344018,310.34196888106135" stroke="grey" stroke-width="5" />
+<circle cx="312.3693478344018" cy="310.34196888106135" r="2.5" fill="grey" stroke="none" />
+<path d="M312.3693478344018,310.34196888106135 A266.7872380755871,266.7872380755871,0,0,0,270.48000000000013,363.9999999999999" stroke="grey" stroke-width="5" fill="none" />
 <circle cx="270.48" cy="268.0" r="5" fill="black" stroke="none" />
 <circle cx="270.48" cy="364.0" r="5" fill="black" stroke="none" />
 <path d="M270.48,364.0 L341.8410666357697,406.28435457678927" stroke="grey" stroke-width="5" />
@@ -35,22 +35,22 @@
 <circle cx="422.48" cy="468.0" r="5" fill="black" stroke="none" />
 <circle cx="454.48" cy="500.0" r="5" fill="black" stroke="none" />
 <path d="M422.48,468.00000000000006 A83.86507258686417,83.86507258686417,0,0,0,427.2533020232221,541.7285074436585" stroke="grey" stroke-width="5" fill="none" />
-<path d="M427.2533020232221,541.7285074436585 L-125.51999999999998,72.0" stroke="grey" stroke-width="5" />
+<path d="M427.2533020232221,541.7285074436585 L374.48,572.0" stroke="grey" stroke-width="5" />
 <circle cx="427.2533020232221" cy="541.7285074436585" r="2.5" fill="grey" stroke="none" />
 <circle cx="422.48" cy="468.0" r="5" fill="black" stroke="none" />
 <circle cx="374.48" cy="572.0" r="5" fill="black" stroke="none" />
 <path d="M374.48,572.0 A144.7040787262059,144.7040787262059,0,0,0,407.8603873751162,611.5776061104393" stroke="grey" stroke-width="5" fill="none" />
-<path d="M407.8603873751162,611.5776061104393 L-125.51999999999998,152.0" stroke="grey" stroke-width="5" />
+<path d="M407.8603873751162,611.5776061104393 L374.48,652.0" stroke="grey" stroke-width="5" />
 <circle cx="407.8603873751162" cy="611.5776061104393" r="2.5" fill="grey" stroke="none" />
 <circle cx="374.48" cy="572.0" r="5" fill="black" stroke="none" />
 <circle cx="374.48" cy="652.0" r="5" fill="black" stroke="none" />
-<path d="M270.48,668.0 L340.9314258909998,616.4322083056468" stroke="grey" stroke-width="5" />
-<circle cx="340.9314258909998" cy="616.4322083056468" r="2.5" fill="grey" stroke="none" />
+<path d="M270.48,668.0 L340.93142589099983,616.4322083056468" stroke="grey" stroke-width="5" />
+<circle cx="340.93142589099983" cy="616.4322083056468" r="2.5" fill="grey" stroke="none" />
 <path d="M340.9314258909999,616.4322083056468 A197.12754855676565,197.12754855676565,0,0,0,374.48,652.0" stroke="grey" stroke-width="5" fill="none" />
 <circle cx="270.48" cy="668.0" r="5" fill="black" stroke="none" />
 <circle cx="374.48" cy="652.0" r="5" fill="black" stroke="none" />
 <path d="M374.48,652.0 A197.12754855676565,197.12754855676565,0,0,0,417.40210403814285,678.988429745261" stroke="grey" stroke-width="5" fill="none" />
-<path d="M417.40210403814285,678.988429745261 L-125.51999999999998,272.0" stroke="grey" stroke-width="5" />
+<path d="M417.40210403814285,678.988429745261 L374.48,772.0" stroke="grey" stroke-width="5" />
 <circle cx="417.40210403814285" cy="678.988429745261" r="2.5" fill="grey" stroke="none" />
 <circle cx="374.48" cy="652.0" r="5" fill="black" stroke="none" />
 <circle cx="374.48" cy="772.0" r="5" fill="black" stroke="none" />
@@ -60,7 +60,7 @@
 <circle cx="374.48" cy="572.0" r="5" fill="black" stroke="none" />
 <circle cx="454.48" cy="572.0" r="5" fill="black" stroke="none" />
 <path d="M454.48,500.0 A45.51999999999998,45.51999999999998,0,0,0,475.6749488071939,538.475476403384" stroke="grey" stroke-width="5" fill="none" />
-<path d="M475.6749488071939,538.475476403384 L-45.51999999999998,72.0" stroke="grey" stroke-width="5" />
+<path d="M475.6749488071939,538.475476403384 L454.48,572.0" stroke="grey" stroke-width="5" />
 <circle cx="475.6749488071939" cy="538.475476403384" r="2.5" fill="grey" stroke="none" />
 <circle cx="454.48" cy="500.0" r="5" fill="black" stroke="none" />
 <circle cx="454.48" cy="572.0" r="5" fill="black" stroke="none" />
@@ -75,7 +75,7 @@
 <circle cx="454.48" cy="500.0" r="5" fill="black" stroke="none" />
 <circle cx="494.48" cy="500.0" r="5" fill="black" stroke="none" />
 <path d="M526.48,572.0 A76.71499462295492,76.71499462295492,0,0,0,573.8828881474036,520.6521001110842" stroke="grey" stroke-width="5" fill="none" />
-<path d="M573.8828881474036,520.6521001110842 L114.48000000000002,32.0" stroke="grey" stroke-width="5" />
+<path d="M573.8828881474036,520.6521001110842 L614.48,532.0" stroke="grey" stroke-width="5" />
 <circle cx="573.8828881474036" cy="520.6521001110842" r="2.5" fill="grey" stroke="none" />
 <circle cx="526.48" cy="572.0" r="5" fill="black" stroke="none" />
 <circle cx="614.48" cy="532.0" r="5" fill="black" stroke="none" />
@@ -83,7 +83,7 @@
 <circle cx="494.48" cy="500.0" r="5" fill="black" stroke="none" />
 <circle cx="638.48" cy="500.0" r="5" fill="black" stroke="none" />
 <path d="M614.48,532.0 A118.86829013660457,118.86829013660457,0,0,0,618.8682901366046,500.0" stroke="grey" stroke-width="5" fill="none" />
-<path d="M618.8682901366046,500.0 L138.48000000000002,0.0" stroke="grey" stroke-width="5" />
+<path d="M618.8682901366046,500.0 L638.48,500.0" stroke="grey" stroke-width="5" />
 <circle cx="618.8682901366046" cy="500.0" r="2.5" fill="grey" stroke="none" />
 <circle cx="614.48" cy="532.0" r="5" fill="black" stroke="none" />
 <circle cx="638.48" cy="500.0" r="5" fill="black" stroke="none" />
@@ -98,27 +98,27 @@
 <circle cx="494.48" cy="652.0" r="5" fill="black" stroke="none" />
 <circle cx="590.48" cy="556.0" r="5" fill="black" stroke="none" />
 <path d="M590.48,556.0 A106.40784933452984,106.40784933452984,0,0,0,602.4795643801875,528.6455805395353" stroke="grey" stroke-width="5" fill="none" />
-<path d="M602.4795643801875,528.6455805395353 L114.48000000000002,32.0" stroke="grey" stroke-width="5" />
+<path d="M602.4795643801875,528.6455805395353 L614.48,532.0" stroke="grey" stroke-width="5" />
 <circle cx="602.4795643801875" cy="528.6455805395353" r="2.5" fill="grey" stroke="none" />
 <circle cx="590.48" cy="556.0" r="5" fill="black" stroke="none" />
 <circle cx="614.48" cy="532.0" r="5" fill="black" stroke="none" />
 <path d="M614.48,532.0 A118.86829013660457,118.86829013660457,0,0,1,606.7776331372036,552.2322454200157" stroke="grey" stroke-width="5" fill="none" />
-<path d="M606.7776331372036,552.2322454200157 L114.48000000000002,56.0" stroke="grey" stroke-width="5" />
+<path d="M606.7776331372036,552.2322454200157 L614.48,556.0" stroke="grey" stroke-width="5" />
 <circle cx="606.7776331372036" cy="552.2322454200157" r="2.5" fill="grey" stroke="none" />
 <circle cx="614.48" cy="532.0" r="5" fill="black" stroke="none" />
 <circle cx="614.48" cy="556.0" r="5" fill="black" stroke="none" />
 <path d="M614.48,556.0 A127.44281227279946,127.44281227279946,0,0,1,556.3943537267932,614.2862514379457" stroke="grey" stroke-width="5" fill="none" />
-<path d="M556.3943537267932,614.2862514379457 L114.48000000000002,232.0" stroke="grey" stroke-width="5" />
+<path d="M556.3943537267932,614.2862514379457 L614.48,732.0" stroke="grey" stroke-width="5" />
 <circle cx="556.3943537267932" cy="614.2862514379457" r="2.5" fill="grey" stroke="none" />
 <circle cx="614.48" cy="556.0" r="5" fill="black" stroke="none" />
 <circle cx="614.48" cy="732.0" r="5" fill="black" stroke="none" />
-<path d="M614.48,732.0 A258.7076929664056,258.7076929664056,0,0,0,673.8315111983381,691.6044783258002" stroke="grey" stroke-width="5" fill="none" />
-<path d="M673.8315111983381,691.6044783258002 L210.48000000000002,232.0" stroke="grey" stroke-width="5" />
-<circle cx="673.8315111983381" cy="691.6044783258002" r="2.5" fill="grey" stroke="none" />
+<path d="M614.48,732.0 A258.7076929664056,258.7076929664056,0,0,0,673.831511198338,691.6044783258002" stroke="grey" stroke-width="5" fill="none" />
+<path d="M673.831511198338,691.6044783258002 L710.48,732.0" stroke="grey" stroke-width="5" />
+<circle cx="673.831511198338" cy="691.6044783258002" r="2.5" fill="grey" stroke="none" />
 <circle cx="614.48" cy="732.0" r="5" fill="black" stroke="none" />
 <circle cx="710.48" cy="732.0" r="5" fill="black" stroke="none" />
 <path d="M614.48,732.0 A258.7076929664056,258.7076929664056,0,0,1,597.9072743396025,739.4657303903625" stroke="grey" stroke-width="5" fill="none" />
-<path d="M597.9072743396025,739.4657303903625 L114.48000000000002,280.0" stroke="grey" stroke-width="5" />
+<path d="M597.9072743396025,739.4657303903625 L614.48,780.0" stroke="grey" stroke-width="5" />
 <circle cx="597.9072743396025" cy="739.4657303903625" r="2.5" fill="grey" stroke="none" />
 <circle cx="614.48" cy="732.0" r="5" fill="black" stroke="none" />
 <circle cx="614.48" cy="780.0" r="5" fill="black" stroke="none" />
@@ -133,12 +133,12 @@
 <circle cx="494.48" cy="356.0" r="5" fill="black" stroke="none" />
 <circle cx="494.48" cy="500.0" r="5" fill="black" stroke="none" />
 <path d="M494.48,356.0 A144.10576116172456,144.10576116172456,0,0,1,496.449900085941,355.9379745019521" stroke="grey" stroke-width="5" fill="none" />
-<path d="M496.44990008594095,355.9379745019521 L-5.519999999999982,-224.0" stroke="grey" stroke-width="5" />
+<path d="M496.44990008594095,355.9379745019521 L494.48,276.0" stroke="grey" stroke-width="5" />
 <circle cx="496.44990008594095" cy="355.9379745019521" r="2.5" fill="grey" stroke="none" />
 <circle cx="494.48" cy="356.0" r="5" fill="black" stroke="none" />
 <circle cx="494.48" cy="276.0" r="5" fill="black" stroke="none" />
 <path d="M494.4800000000001,276.0 A224.0680039630826,224.0680039630826,0,0,1,495.58351750678935,275.97552570670507" stroke="grey" stroke-width="5" fill="none" />
-<path d="M495.58351750678935,275.97552570670507 L-5.519999999999982,-280.0" stroke="grey" stroke-width="5" />
+<path d="M495.58351750678935,275.97552570670507 L494.48,220.0" stroke="grey" stroke-width="5" />
 <circle cx="495.58351750678935" cy="275.97552570670507" r="2.5" fill="grey" stroke="none" />
 <circle cx="494.48" cy="276.0" r="5" fill="black" stroke="none" />
 <circle cx="494.48" cy="220.0" r="5" fill="black" stroke="none" />
@@ -148,7 +148,7 @@
 <circle cx="494.48" cy="276.0" r="5" fill="black" stroke="none" />
 <circle cx="590.48" cy="372.0" r="5" fill="black" stroke="none" />
 <path d="M494.48,356.0 A144.10576116172456,144.10576116172456,0,0,1,583.1813158146101,382.32528266721823" stroke="grey" stroke-width="5" fill="none" />
-<path d="M583.1813158146101,382.32528266721823 L90.48000000000002,-128.0" stroke="grey" stroke-width="5" />
+<path d="M583.1813158146101,382.32528266721823 L590.48,372.0" stroke="grey" stroke-width="5" />
 <circle cx="583.1813158146101" cy="382.32528266721823" r="2.5" fill="grey" stroke="none" />
 <circle cx="494.48" cy="356.0" r="5" fill="black" stroke="none" />
 <circle cx="590.48" cy="372.0" r="5" fill="black" stroke="none" />
@@ -158,12 +158,12 @@
 <circle cx="590.48" cy="372.0" r="5" fill="black" stroke="none" />
 <circle cx="638.48" cy="444.0" r="5" fill="black" stroke="none" />
 <path d="M590.48,556.0 A106.40784933452984,106.40784933452984,0,0,0,595.5846028078975,546.7569685293698" stroke="grey" stroke-width="5" fill="none" />
-<path d="M595.5846028078975,546.7569685293698 L114.48000000000002,56.0" stroke="grey" stroke-width="5" />
+<path d="M595.5846028078975,546.7569685293698 L614.48,556.0" stroke="grey" stroke-width="5" />
 <circle cx="595.5846028078975" cy="546.7569685293698" r="2.5" fill="grey" stroke="none" />
 <circle cx="590.48" cy="556.0" r="5" fill="black" stroke="none" />
 <circle cx="614.48" cy="556.0" r="5" fill="black" stroke="none" />
 <path d="M614.48,556.0 A127.44281227279946,127.44281227279946,0,0,0,618.1479626312721,547.7779167197518" stroke="grey" stroke-width="5" fill="none" />
-<path d="M618.1479626312721,547.7779167197518 L138.48000000000002,56.0" stroke="grey" stroke-width="5" />
+<path d="M618.1479626312721,547.7779167197518 L638.48,556.0" stroke="grey" stroke-width="5" />
 <circle cx="618.1479626312721" cy="547.7779167197518" r="2.5" fill="grey" stroke="none" />
 <circle cx="614.48" cy="556.0" r="5" fill="black" stroke="none" />
 <circle cx="638.48" cy="556.0" r="5" fill="black" stroke="none" />
@@ -173,22 +173,22 @@
 <circle cx="638.48" cy="556.0" r="5" fill="black" stroke="none" />
 <circle cx="638.48" cy="500.0" r="5" fill="black" stroke="none" />
 <path d="M638.48,500.0 A138.48000000000002,138.48000000000002,0,0,0,637.5648314723571,484.1057387091442" stroke="grey" stroke-width="5" fill="none" />
-<path d="M637.5648314723571,484.1057387091442 L138.48000000000002,-16.0" stroke="grey" stroke-width="5" />
+<path d="M637.5648314723571,484.1057387091442 L638.48,484.0" stroke="grey" stroke-width="5" />
 <circle cx="637.5648314723571" cy="484.1057387091442" r="2.5" fill="grey" stroke="none" />
 <circle cx="638.48" cy="500.0" r="5" fill="black" stroke="none" />
 <circle cx="638.48" cy="484.0" r="5" fill="black" stroke="none" />
 <path d="M638.48,484.0 A139.4012568092555,139.4012568092555,0,0,0,635.8220943296533,468.6141896407503" stroke="grey" stroke-width="5" fill="none" />
-<path d="M635.8220943296533,468.6141896407503 L138.48000000000002,-32.0" stroke="grey" stroke-width="5" />
+<path d="M635.8220943296533,468.6141896407503 L638.48,468.0" stroke="grey" stroke-width="5" />
 <circle cx="635.8220943296533" cy="468.6141896407503" r="2.5" fill="grey" stroke="none" />
 <circle cx="638.48" cy="484.0" r="5" fill="black" stroke="none" />
 <circle cx="638.48" cy="468.0" r="5" fill="black" stroke="none" />
 <path d="M638.48,468.0 A142.12920319202527,142.12920319202527,0,0,0,631.7632237399073,446.7162006828798" stroke="grey" stroke-width="5" fill="none" />
-<path d="M631.7632237399073,446.7162006828798 L138.48000000000002,-56.0" stroke="grey" stroke-width="5" />
+<path d="M631.7632237399073,446.7162006828798 L638.48,444.0" stroke="grey" stroke-width="5" />
 <circle cx="631.7632237399073" cy="446.7162006828798" r="2.5" fill="grey" stroke="none" />
 <circle cx="638.48" cy="468.0" r="5" fill="black" stroke="none" />
 <circle cx="638.48" cy="444.0" r="5" fill="black" stroke="none" />
 <path d="M638.48,444.0 A149.37439673518352,149.37439673518352,0,0,1,643.0628937461457,457.0381700462025" stroke="grey" stroke-width="5" fill="none" />
-<path d="M643.0628937461457,457.0381700462025 L186.48000000000002,-56.0" stroke="grey" stroke-width="5" />
+<path d="M643.0628937461457,457.0381700462025 L686.48,444.0" stroke="grey" stroke-width="5" />
 <circle cx="643.0628937461457" cy="457.0381700462025" r="2.5" fill="grey" stroke="none" />
 <circle cx="638.48" cy="444.0" r="5" fill="black" stroke="none" />
 <circle cx="686.48" cy="444.0" r="5" fill="black" stroke="none" />
@@ -203,7 +203,7 @@
 <circle cx="686.48" cy="484.0" r="5" fill="black" stroke="none" />
 <circle cx="638.48" cy="484.0" r="5" fill="black" stroke="none" />
 <path d="M638.48,468.0 A142.12920319202527,142.12920319202527,0,0,1,640.6287923877479,479.40259357191536" stroke="grey" stroke-width="5" fill="none" />
-<path d="M640.6287923877479,479.40259357191536 L218.48000000000002,-32.0" stroke="grey" stroke-width="5" />
+<path d="M640.6287923877479,479.40259357191536 L718.48,468.0" stroke="grey" stroke-width="5" />
 <circle cx="640.6287923877479" cy="479.40259357191536" r="2.5" fill="grey" stroke="none" />
 <circle cx="638.48" cy="468.0" r="5" fill="black" stroke="none" />
 <circle cx="718.48" cy="468.0" r="5" fill="black" stroke="none" />
